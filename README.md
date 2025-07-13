@@ -37,5 +37,5 @@ A brief description of what this project does and its purpose. This repository c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ryanbijoy/amd/
+   cd amd
